@@ -49,6 +49,8 @@ T1QwMTogR290IG5ld3MuCk9UMDI6IEhtPyBBYm91dCB3aGF0PwpPVDAxOiBUaGV54oCZcmUgcHVsbGlu
 >> OT01: They’re pulling all of the top brass out of the city. All at once.  
 >> OT02: Shit.  
 
+> Which is most likely a reference to the [Ammo Shortage](https://escapefromtarkov.fandom.com/wiki/Events#:~:text=has%20been%20added.-,Ammo%20Shortage%20(25%20November%202023),-Gameplay%20Changes) ingame event from the game.
+
 ### file intercepted_data_0148.txt
 ```
 mJlL2R
@@ -83,6 +85,8 @@ T1QwMTogRXhhY3RseS4gV2UgYXJlbuKAmXQgb24gdGhlIGxpc3QsIHNvIHdlIGhhdmUgdG8gZmluZCBh
 >> OT02: Makes sense. So when?  
 >> OT01: Early next month, I guess. We’ll take a sick leave and get the hell out of here. // what an amazing and fool-proof plan. Can't believe it worked!  
 >> OT02: Sounds like a plan.  
+> 
+> Which is a "prequel" to the story in [observer_unit_20](./observer_unit_20.md#the-full-story-from-this-user)
 
 
 ### file intercepted_data_0150.txt
@@ -97,6 +101,7 @@ T1QwMTogSSBzYXkgd2UgZG9uJ3QgZ28gZW1wdHktaGFuZGVkLiBXZSBnb3R0YSBnZXQgc29tZXRoaW5n
 >> OT02: alr  
 >> OT01: Delete this chat //good thing he at least thought about that  
 
+<br>
 
 > All the short texts combined from all the files form `aHR0cDovL3lvdXR1LmJlL2RRdzR3OVdnWGNRJmFi` which can be decoded with Base64 to `http://youtu.be/dQw4w9WgXcQ&ab`.
 
