@@ -274,3 +274,30 @@ OUY+Mj8wQzZEQEZDNDZEMEY/OkUwY19f
 
 > All the weird codes written in capitals connect to `GJ3TQY22M53XAOKWJRSVQRCWHFYHGSTPLE4GS5LZJRBHU5DKGJYXIRSVJZFG4UTIIUYW6RSTPBCHER2YIRCTC4TZMFBFAUTJIFEGWNSOGY4HGQKRMV3VOZLOKRJQ====`  
 > , which can be decoded first with Base32 and then 5 times with Base58 to `observer_unit_12`
+
+---
+<br>
+
+## The full story from this user:
+> (slightly modified to make sense in English - fixed typos and replaces weird numbers. So don't take this for future deciphering)
+
+observing target by car, tailing ... target is moving, we are closekeep distance, don't get caught ... understood, highway number ERROR, ERROR high speed  
+
+OT01. That car is still following us.  
+OT02. You think it's?..  
+OT01. Fucking obviously! We're being tailed! They found out about the missing docs somehow!  
+OT02. Alright, don't freak out, just drive the car but don't run off!  
+
+OT01. We have to lose them! They’re gonna kill us!  
+OT02. No, we don’t. It’s best we let them stop us. We don’t have anything on us, remember? The docs are in a safe place. They won’t find anything. // how naive is that?  
+
+OT01. Suspicion is enough for them! They'll clap us and bury us with those bodies from the experiments!  
+OT02. Yeah and how will they explain that we disappeared on a sick leave? We have families, they'll be looking for us.  
+
+OT01. My wife would love to take a couple mill and forget about me. Anyway, it's TerraGroup, they'll cover the tracks and that's it! // drum roll… they're right.  
+OT02. Calm the fuck down already! And get off the gas. Don’t let them know we noticed them tailing us. We are just going on a vacation, thhat’s it. // someone really wanted them to notice  
+
+OT01. Okay, … Shit, they’re catching up! They’re nearing us!  
+OT02. Fucking drive! They’re going to push us off!  
+\- \- \- tires screeching - - -  
+\- \- \- recording end - - -  
