@@ -156,6 +156,25 @@ QgbGV0IG9mZiB0aGUgZ2FzLiBEb27igJl0IGxldCB0aGVtIGtub3cgd2Ugbm90aWNlZC-a
 B0aGVtIHRhaWxpbmcgdXMuIFdlIGFyZSBqdXN0IGdvaW5nIG9uIGEgdmFjYXRpb24sI-2
 HRoYXTigJlzIGl0LiAvLyBzb21lb25lIHJlYWxseSB3YW50ZWQgdGhlbSB0byBub3RpY2UK
 ```
+
+> The first three lines decode with Base64 to:  
+> `OT01. My wife would love to take a couple mill and forget about me. Anyway, it's TerraGroup, they'll cover the tracks and that's it! // drum roll… h`  
+> 4th line (with the `7`, wihtout the `-`) decodes to:  
+> `right.`  
+> `OT02. Calm the fuck down already! An`  
+> the next part, this time with the dash before the `e` decodes to  
+> `et off the gas. Don’t let them know we noticed`  
+> the 3rd part, with the `-` decodes to:  
+> `em tailing us. We are just going on a vacation,`  
+> the last part, without the dash this time:  
+> `hat’s it. // someone really wanted them to notice`  
+
+> The resulting text seems to be
+>> OT01. My wife would love to take a couple mill and forget about me. Anyway, it's TerraGroup, they'll cover the tracks and that's it! // drum roll…  
+>> ***???*** right.  
+>> OT02. Calm the fuck down already! An***d*** ***g***et off the gas. Don’t let them know we noticed ***th***em tailing us. We are just going on a vacation, ***th***hat’s it. // someone really wanted them to notice  
+
+
 ### file intercepted_data_0091.txt
 ```
 rot
