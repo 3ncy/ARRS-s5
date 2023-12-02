@@ -31,6 +31,8 @@ V1G3NER3
 >> Nobody knows it, except you.  
 >> Once everyone knows it, it’s gone.
 
+> This riddle is hinting the word "secret".
+
 ### file hgd_log_04761.txt
 ```
 MDEyNjEKMDc3NDAKMDg3OTEKMDc3NDEK
@@ -40,6 +42,21 @@ MDEyNjEKMDc3NDAKMDg3OTEKMDc3NDEK
 >> 07740  
 >> 08791  
 >> 07741  
+
+> When we take all the other files in the order they are listed, we can decode them from Base64. This gives partly eligible text:
+>> It's always fascinating to read how people lived their last quiet days before their lives were turned upside down. It's like watching rats who don't even know they're about to be injected with a virus and have their carcasses opened up in a couple days.  
+
+> while the first part of the text is still unreadable. That can be decoded with Vigenere(key: "secret") to:
+>> ///dc0ed_account_8282: let's hide ///75ething first, okay?  
+>> deleted_ac///5a3t_8224: why?  
+>> deleted_account_8282: are you st///d85? what if so///be4 stops us while we’re driving and fumbling over some weird papers?  
+>> deleted_///9b5nt_8224: okay, fair enough. let’s do what you ///035osed. you know a g///bbe place?  
+>> ////7faeeted_account_8282: yeah, i’ll ////be89 you the info  
+
+> When we take the number of characters after the slashes equal to the number of slashes (eg. `///dc0`), we get
+>> `dc075e5a3d85be49b5035bbe7faebe89`  
+>
+> which is a password to [human_resources_unit_400](human_resources_unit_400.md).
 
 
 ### file hty_log_07740.txt
