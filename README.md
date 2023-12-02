@@ -4,9 +4,6 @@
 | Username | Password | Name | Unlock time |
 |----------|----------|------|-------------|
 | [observer_unit_20](./Users/observer_unit_20.md) | 0fcf50356 | - | Start of the event |
-| [human_resources_unit_400]()|  |  | |
-| [human_resources_unit_001]()|  |  | |
-| [observer_unit_12]()        |  |  | |
 
 
 ## Possible users without passwords
@@ -15,6 +12,6 @@
 - human_resources_unit_400
     - from Calion: https://cdn.discordapp.com/attachments/984814802247487519/1180516611522826250/image.png?ex=657db4c5&is=656b3fc5&hm=e3f4ec3a6a980f10ec066165cde3cb2ccb771847db2bb77bb3757eec5b88e7eb&
 - human_resorces_unit_001
-    - from eeeeellloooo: https://cdn.discordapp.com/attachments/984814802247487519/1180516937088905246/image.png?ex=657db512&is=656b4012&hm=8707de22623f3094165526cd3b21a741cb82092af52d1377395e846b86af3938&
+    - from the file [intercepted_data_0091.txt](https://github.com/3ncy/ARRS-s5/blob/main/Users/observer_unit_20.md#file-intercepted_data_0091txt) in [observer_unit_20](https://github.com/3ncy/ARRS-s5/blob/main/Users/observer_unit_20.md)
   
 ## Possible passwords without known username
