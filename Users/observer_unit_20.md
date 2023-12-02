@@ -222,6 +222,18 @@ IGVuZCAtIC0gLSAwX1
 9gCmNiMjhjYTIyNWE4CiAg
 4792
 ```
+
+> All lines connected together can be decoded from Base64, except the first (`rot`) and last (`4792`):
+> ```
+> OT01. Okay, 9F>2?… Shit, they’re catc0C6D up! They’re @FCering us!
+> OT02. Fucking drive! They’re 46D0ing to push us off!
+> - - - tires screeching - - - F?:E
+> - - - recording end - - - 0__`
+> cb28ca225a8
+> ```
+
+> the first line could be hinting at the Rot cipher
+
 ### file intercepted_data_0092.txt
 ```
 OUY+Mj8wQzZEQEZDNDZEMEY/OkUwY19f
