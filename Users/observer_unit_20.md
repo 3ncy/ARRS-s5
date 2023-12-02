@@ -76,6 +76,32 @@ e511def810e02fed826b0d63527461d2d7f5e457e511def810e02fed826b0d
 [15:05:23] Encrypted data: CjNhbnl0aGluZy4gCi8vIGhvdyBuYWl2
 [15:05:31] Encrypted data: ZSBpcyB0aGF0PyAK
 ```
+> The first 11 lines upto the `/` form this text when decoded with base64: (and encoding set to UTF-8)  
+> ```
+> 5OT01. We 
+> have 
+> to lose 
+> dthem! They’re 
+> 0gonna 
+> kill us!
+> OT02. No, we don’t. 
+> 4It’s best we let them stop us. 
+> We don’t have anything 
+> 2on us, remember  
+> ```
+> After the slash the text goes like this:  
+> ```
+> The docs are 
+> 6in a safe 
+> place. They 
+> won’t find 
+> 3anything. 
+> // how naive is that? 
+> ```
+
+> The weird inserted numbers and letters form this:
+> 5OT010OT024263
+
 ### file intercepted_data_0089.txt
 ```
 //
