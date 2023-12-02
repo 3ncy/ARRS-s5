@@ -223,8 +223,6 @@ IGVuZCAtIC0gLSAwX1
 4792
 ```
 
-T1QwMS4gT2theSwgOUY+Mj/igKYgU2hpdCwgdGhleeKAmXJlIGNhdGMwQzZEIHVwISBUaGV54oCZcmUgQEZDZXJpbmcgdXMhCk9UMDIuIEZ1Y2tpbmcgZHJpdmUhIFRoZXnigJlyZSA0NkQwaW5nIHRvIHB1c2ggdXMgb2ZmIQotIC0gLSB0aXJlcyBzY3JlZWNoaW5nIC0gLSAtIEY/OkUKLSAtIC0gcmVjb3JkaW5nIGVuZCAtIC0gLSAwX19gCmNiMjhjYTIyNWE4CiAg
-
 > All lines (except the first and the last) connected together can be decoded from Base64:
 > ```
 > OT01. Okay, 9F>2?… Shit, they’re catc0C6D up! They’re @FCering us!
@@ -270,3 +268,9 @@ OUY+Mj8wQzZEQEZDNDZEMEY/OkUwY19f
 [16.12.20** 18:36 UTC] Services protected, protection protocol one OGY4HGQ , protection protocol two KRMV3
 [16.12.20** 18:37 UTC] Error! Missing data! Erorr code: VOZLOKRJ. Data stream: Q====
 ```
+
+> The datastream connected together results in `aHR0cHM6Ly9jbGNrLnJ1L1ZtcjNn`, which can be decoded from Base64 to `https://clck.ru/Vmr3g`  
+> This link redirects to `https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley`, which is `Rick Astley - Never Gonna Give You Up (Official Music Video)` - the Rickroll
+
+> All the weird codes written in capitals connect to `GJ3TQY22M53XAOKWJRSVQRCWHFYHGSTPLE4GS5LZJRBHU5DKGJYXIRSVJZFG4UTIIUYW6RSTPBCHER2YIRCTC4TZMFBFAUTJIFEGWNSOGY4HGQKRMV3VOZLOKRJQ====`  
+> , which can be decoded first with Base32 and then 5 times with Base58 to `observer_unit_12`
