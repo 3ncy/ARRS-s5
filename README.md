@@ -4,6 +4,7 @@
 | Username | Password | Name | Unlock time |
 |----------|----------|------|-------------|
 | [observer_unit_20](./Users/observer_unit_20.md) | 0fcf50356 | - | Start of the event |
+| [human_resources_unit_001](./Users/observer_unit_20.mb) | 5e065d5d04263346d7ea2cb28ca225a8 | | |
 
 ```mermaid
 graph TD;
