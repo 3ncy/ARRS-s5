@@ -245,6 +245,8 @@ T1QwMS4gT2theSwgOUY+Mj/igKYgU2hpdCwgdGhleeKAmXJlIGNhdGMwQzZEIHVwISBUaGV54oCZcmUg
 ```
 OUY+Mj8wQzZEQEZDNDZEMEY/OkUwY19f
 ```
+> Decoded with Base64 and then ROT47 gives `human_resources_unit_400`
+
 ### file intercepted_data_0093.txt
 ```
 [16.12.20** 18:12 UTC] System idle, no input. Code: GJ3TQY
