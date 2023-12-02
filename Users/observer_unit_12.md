@@ -48,8 +48,8 @@ T1QwMTogR290IG5ld3MuCk9UMDI6IEhtPyBBYm91dCB3aGF0PwpPVDAxOiBUaGV54oCZcmUgcHVsbGlu
 >> OT02: Hm? About what?  
 >> OT01: They’re pulling all of the top brass out of the city. All at once.  
 >> OT02: Shit.  
-
-> Which is most likely a reference to the [Ammo Shortage](https://escapefromtarkov.fandom.com/wiki/Events#:~:text=has%20been%20added.-,Ammo%20Shortage%20(25%20November%202023),-Gameplay%20Changes) ingame event from the game.
+> 
+> "top brass" meaning higher-ups (high ranks) in TerraGroup
 
 ### file intercepted_data_0148.txt
 ```
