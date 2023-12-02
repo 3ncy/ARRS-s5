@@ -223,7 +223,9 @@ IGVuZCAtIC0gLSAwX1
 4792
 ```
 
-> All lines connected together can be decoded from Base64, except the first (`rot`) and last (`4792`):
+T1QwMS4gT2theSwgOUY+Mj/igKYgU2hpdCwgdGhleeKAmXJlIGNhdGMwQzZEIHVwISBUaGV54oCZcmUgQEZDZXJpbmcgdXMhCk9UMDIuIEZ1Y2tpbmcgZHJpdmUhIFRoZXnigJlyZSA0NkQwaW5nIHRvIHB1c2ggdXMgb2ZmIQotIC0gLSB0aXJlcyBzY3JlZWNoaW5nIC0gLSAtIEY/OkUKLSAtIC0gcmVjb3JkaW5nIGVuZCAtIC0gLSAwX19gCmNiMjhjYTIyNWE4CiAg
+
+> All lines (except the first and the last) connected together can be decoded from Base64:
 > ```
 > OT01. Okay, 9F>2?… Shit, they’re catc0C6D up! They’re @FCering us!
 > OT02. Fucking drive! They’re 46D0ing to push us off!
@@ -232,7 +234,12 @@ IGVuZCAtIC0gLSAwX1
 > cb28ca225a8
 > ```
 
-> the first line could be hinting at the Rot cipher
+> If we take the weird characters and run them through ROT47 (as hinted by the first and the last lines of the file) we get a name of possibly another account:
+> ```
+> 9F>2?0C6D@FC46D0F?:E0__`
+> ->
+> human_resources_unit_001
+> ```
 
 ### file intercepted_data_0092.txt
 ```
