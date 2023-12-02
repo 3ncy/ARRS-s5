@@ -4,13 +4,14 @@
 | Username | Password | Name | Unlock time |
 |----------|----------|------|-------------|
 | [observer_unit_20](./Users/observer_unit_20.md) | 0fcf50356 | - | Start of the event |
-| [human_resources_unit_001](./Users/observer_unit_20.mb) | 5e065d5d04263346d7ea2cb28ca225a8 | | |
+| [human_resources_unit_001](./Users/human_resources_unit_001.md) | 5e065d5d04263346d7ea2cb28ca225a8 | | |
+| [human_resources_unit_400](./Users/human_resources_unit_400.md) | dc075e5a3d85be49b5035bbe7faebe89 | | |
 
 ```mermaid
 graph TD;
     observer_unit_20 --possible--> observer_unit_12;
-    observer_unit_20 --possible--> human_resources_unit_400;
-    observer_unit_20 --possible--> human_resorces_unit_001;
+    observer_unit_20 ----> human_resources_unit_400;
+    observer_unit_20 ----> human_resorces_unit_001;
 ```
 
 ## Possible users without passwords
