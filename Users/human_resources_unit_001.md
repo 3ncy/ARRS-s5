@@ -27,11 +27,20 @@ GV2ZXJ5b25lIGtub3dzIGl0
 LCBpdOKAmXMgZ29uZS4K
 V1G3NER3
 ```
+> From Base64 decodes to:
+>> Nobody knows it, except you.  
+>> Once everyone knows it, it’s gone.
 
 ### file hgd_log_04761.txt
 ```
 MDEyNjEKMDc3NDAKMDg3OTEKMDc3NDEK
 ```
+> From Base64 decodes to:
+>> 01261  
+>> 07740  
+>> 08791  
+>> 07741  
+
 
 ### file hty_log_07740.txt
 ```
