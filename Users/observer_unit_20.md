@@ -118,6 +118,34 @@ e511def810e02fed826b0d63527461d2d7f5e457e511def810e02fed826b0d
 < Corrupt data > mYW1pbGllcywgdGhleeKAmWx/dsIGJlIG < /Corrupt data >
 < Corrupt data > xvb2tpbmcgZm9yIHVzLgog < /Corrupt data >
 ```
+
+> First two lines before the slash decode with Base64 to:
+> ```
+> OT01. Suspicion is enough 
+> ```
+> The next part results into: (if there are two characters of padding added to the front)
+> ```
+> or them! They’ll clap us and bury us 
+> ```
+> The next part (lines 4-8)
+> ```
+> ੫e those bodies from the experiments!  
+> OT02. Yeah and how will th
+> ```
+> The next part with three characters of padding at the front:
+> ```
+> iƺey explain that we disappeared on a sick leave? We have families, they’l
+> ```
+> And the last part, with two characters of padding:
+> ```
+>  be looking for us.
+> ```
+
+> The whole text seems to be
+> > OT01. Suspicion is enough ***f***or them! They'll clap us and bury us ***??*** those bodies from the experiments!  
+> > OT02. Yeah and how will they explain that we disappeared on a sick leave? We have families, they'll be looking for us.
+
+
 ### file intercepted_data_0090.txt
 ```
 T1QwMS4gTXkgd2lmZSB3b3VsZCBsb3ZlIHRvIHRha2UgYSBjb3VwbGUgbWlsbCBhbm
