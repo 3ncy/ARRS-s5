@@ -11,7 +11,7 @@
 graph TD;
     observer_unit_20 --name--> observer_unit_12;
     observer_unit_20 --name--> human_resources_unit_400;
-    observer_unit_20 --name--> human_resorces_unit_001;
+    observer_unit_20 ----> human_resorces_unit_001;
     human_resorces_unit_001 --pass--> human_resources_unit_400
 ```
 
