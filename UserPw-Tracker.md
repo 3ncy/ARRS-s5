@@ -3,6 +3,7 @@
 ## Users tracked:
   * observer_unit_12
   * human_resources_unit_400
+  * human_resources_unit_001
 
 ## User-Pw
 | Username | Password |
