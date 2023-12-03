@@ -8,6 +8,7 @@
 | [human_resources_unit_400](./Users/human_resources_unit_400.md) | dc075e5a3d85be49b5035bbe7faebe89 | - | 18:30 GMT+1 | Solved |
 | [observer_unit_12](./Users/observer_unit_12.md) | 2ab9929642539a8c6c7de73448861fb8 | - | 19:30 GMT+1 | In Progress |
 | [Supplymanager_unit092](./Users/Supplymanager_unit092.md) | VjFaV2IxVXdNVWhVYTJ4VlZrWndU | - | 15:00 GMT+1, 03.12. |
+| [officemanager_unit512](./Users/officemanager_unit512.md) | bHBXVW5OalZteHlXa1U1YW1FemF | - | 15:15 GMT+1, 03.12. |
 
 ```mermaid
 graph TD;
@@ -16,6 +17,8 @@ graph TD;
     observer_unit_20 ----> human_resorces_unit_001;
     human_resorces_unit_001 --pass--> human_resources_unit_400
     human_resources_unit_400 --pass--> observer_unit_12
+
+    Supplymanager_unit092 ----> officemanager_unit512
 ```
 
 ## Possible users without passwords
