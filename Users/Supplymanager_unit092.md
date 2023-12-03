@@ -106,6 +106,8 @@ DR
 
 < - end of file ->
 ```
+> The first line decoded with Base32 results to 
+> `Login(encrypted): ABIACQIGRJ9NIXUZNV3XEXS5M9BT3CWWVMDL2M9GT5N`
 
 
 ### file storage_report_590.txt
@@ -123,3 +125,11 @@ S. DXHIQGESCCLBLFONKPMFWFU5DFJB
 
 < - end of file ->
 ```
+
+> If we take all the lines in the order of `CWSXQADR` (the two letters in previous files) and decode them with Base32, we get:
+> ```
+> pw: VjFaV2IxVXdNVWhVYTJ4VlZrWndU
+> pw: bHBXVW5OalZteHlXa1U1YW1FemF
+> pw: ERlZNbkJIVkZVeFdGVnRSbFZXT
+> pw: TFKUVZtMWpPVkJSUFQwPSAg
+> ```
