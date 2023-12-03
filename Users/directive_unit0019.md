@@ -3,6 +3,7 @@
 < - info -><br>
  <br>
 < - end of info -><br>
+
 ## notes
 - FYI
 
@@ -16,13 +17,18 @@
 5: WGSZTFEBUXGIDXN5ZHGZJAORU
 6: GC3RAMRSWC5DIFQQHI2DPOVTWQIBA
 ```
+> Stringing all the lines together and decoding from Base32 gives
+> ```
+> In case you're wondering, these brave fellows survived. Sometimes life is worse than death, though
+> ```
+
 ## files
 - messgetxt_010290.txt
 - messgetxt_010296.txt
 - messgetxt_010300.txt
 
 
-### messgetxt_010290.txt
+### file messgetxt_010290.txt
 ```
 < - file ->
 
@@ -30,9 +36,13 @@ PFXXKIDIMF3GKIDON4QGSZDFMEQGQ33XEBWXKY3IEB4W65JAONRXEZLXMVSCA3LFEB2GQZJAMZ2WG2ZA
 
 < - end of file ->
 ```
+> Decoding from Base32 gives:
+> ```
+> you have no idea how much you screwed me the fuck over. Are you fucking blind??? How could you lose your daughter's 
+> - - - interrupted message - - - 
+> ```
 
-
-### messgetxt_010296.txt
+### file messgetxt_010296.txt
 ```
 < - file ->
 
@@ -50,7 +60,7 @@ PFXXKIDIMF3GKIDON4QGSZDFMEQGQ33XEBWXKY3IEB4W65JAONRXEZLXMVSCA3LFEB2GQZJAMZ2WG2ZA
 ```
 
 
-### messgetxt_010300.txt
+### file messgetxt_010300.txt
 ```
 < - file ->
 
@@ -64,3 +74,22 @@ PFXXKIDIMF3GKIDON4QGSZDFMEQGQ33XEBWXKY3IEB4W65JAONRXEZLXMVSCA3LFEB2GQZJAMZ2WG2ZA
 
 < - end of file ->
 ```
+
+
+> Stringing together lines starting with `296` from both files and decoding from Base32 gives
+> ```
+> - - - interrupted message - - - 
+> toy?>? It was in her hands all the time!! If you knew what was in it... I hid our fucking golden ticket there, but now it's in this goddamn tarkov! nnobody's gonna go in there to get the flash drive out of that fucking teddy bear! 
+> // oh how wrong he is. They will, they sure will
+> - - - interrupted message - - - 
+> ```
+
+
+> Stringing together lines starting with `300` from both files and decoding from Base32 gives:
+> ```
+> - - - interrupted message - - - 
+> i’m leaving. do whatever the fuck you want, you’re not getting a penny from me
+> // sometimes there's too much drama in people's lives, don't you think?
+> 
+> // The kid could have left her teddy bear anywhere. You're gonna have to look around far and wide  
+> ```
