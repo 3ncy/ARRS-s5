@@ -18,7 +18,7 @@ graph TD;
 ```
 
 ## Possible users without passwords
-- observer_unit_12
-    - from the file [intercepted_data_0093.txt](https://github.com/3ncy/ARRS-s5/blob/main/Users/observer_unit_20.md#file-intercepted_data_0093txt) in [observer_unit_20](https://github.com/3ncy/ARRS-s5/blob/main/Users/observer_unit_20.md)
+-
   
 ## Possible passwords without known username
+-
