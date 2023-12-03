@@ -15,15 +15,25 @@
 
 ```mermaid
 graph TD;
+    start{{start of the event}} --> quest2-desc(["Down the Rabbit Hole - Part 2:
+quest description"]);
+    quest2-desc --> observer_unit_20;
     observer_unit_20 --name--> observer_unit_12;
     observer_unit_20 --name--> human_resources_unit_400;
     observer_unit_20 ----> human_resorces_unit_001;
-    human_resorces_unit_001 --pass--> human_resources_unit_400
-    human_resources_unit_400 --pass--> observer_unit_12
+    human_resorces_unit_001 --password--> human_resources_unit_400;
+    human_resources_unit_400 --password--> observer_unit_12;
+    observer_unit_12 --> quest2-sol(["Down the Rabbit Hole - Part 2:
+quest solution"]);
 
-    Supplymanager_unit092 ----> officemanager_unit512
-    officemanager_unit512 ----> jaintor_unit7783
-    jaintor_unit7783 ----> directive_unit0019
+    quest3(["Down the Rabbit Hole - Part 3: 
+quest reward text"]) --> irl{{IRL coordinates with notes}};
+    irl --> Supplymanager_unit092;
+    Supplymanager_unit092 ----> officemanager_unit512;
+    officemanager_unit512 ----> jaintor_unit7783;
+    jaintor_unit7783 ----> directive_unit0019;
+    directive_unit0019 --> quest4(["Down the Rabbit Hole - Part 4:
+quest start"]);
 ```
 
 ## Possible users without passwords
