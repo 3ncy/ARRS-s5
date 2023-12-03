@@ -75,7 +75,9 @@ e511def810e02fed826b0d63527461d2d7f5e457e511def810e02fed826b0d
 > 0→a (t0iled)  
 > 6→i (m6ssing)  
 > 5→u (o5t)  
-> d→u (bdt)
+> d→u (bdt)  
+> ⇒ `5e065d`
+
 
 
 ### file intercepted_data_0088.txt
@@ -121,7 +123,7 @@ e511def810e02fed826b0d63527461d2d7f5e457e511def810e02fed826b0d
 > ```
 
 > The weird inserted numbers and letters form this:
-> 5OT010OT024263
+> `5d04263`
 
 ### file intercepted_data_0089.txt
 ```
@@ -140,31 +142,10 @@ e511def810e02fed826b0d63527461d2d7f5e457e511def810e02fed826b0d
 < Corrupt data > xvb2tpbmcgZm9yIHVzLgog < /Corrupt data >
 ```
 
-> First two lines before the slash decode with Base64 to:
-> ```
-> OT01. Suspicion is enough 
-> ```
-> The next part results into: (if there are two characters of padding added to the front)
-> ```
-> or them! They’ll clap us and bury us 
-> ```
-> The next part (lines 4-8)
-> ```
-> ੫e those bodies from the experiments!  
-> OT02. Yeah and how will th
-> ```
-> The next part with three characters of padding at the front:
-> ```
-> iƺey explain that we disappeared on a sick leave? We have families, they’l
-> ```
-> And the last part, with two characters of padding:
-> ```
->  be looking for us.
-> ```
-
-> The whole text seems to be
-> > OT01. Suspicion is enough ***f***or them! They'll clap us and bury us ***??*** those bodies from the experiments!  
-> > OT02. Yeah and how will they explain that we disappeared on a sick leave? We have families, they'll be looking for us.
+> If we take a single character after each slash, we get `346d`.
+> Then we can take all the remaining text and decode it with Base64 to get  
+>> OT01. Suspicion is enough for them! They’ll clap us and bury us like those bodies from the experiments!  
+>> OT02. Yeah and how will they explain that we disappeared on a sick leave? We have families, they’ll be looking for us.
 
 
 ### file intercepted_data_0090.txt
@@ -178,22 +159,12 @@ B0aGVtIHRhaWxpbmcgdXMuIFdlIGFyZSBqdXN0IGdvaW5nIG9uIGEgdmFjYXRpb24sI-2
 HRoYXTigJlzIGl0LiAvLyBzb21lb25lIHJlYWxseSB3YW50ZWQgdGhlbSB0byBub3RpY2UK
 ```
 
-> The first three lines decode with Base64 to:  
-> `OT01. My wife would love to take a couple mill and forget about me. Anyway, it's TerraGroup, they'll cover the tracks and that's it! // drum roll… h`  
-> 4th line (with the `7`, wihtout the `-`) decodes to:  
-> `right.`  
-> `OT02. Calm the fuck down already! An`  
-> the next part, this time with the dash before the `e` decodes to  
-> `et off the gas. Don’t let them know we noticed`  
-> the 3rd part, with the `-` decodes to:  
-> `em tailing us. We are just going on a vacation,`  
-> the last part, without the dash this time:  
-> `hat’s it. // someone really wanted them to notice`  
+> If we remove the charactes after the dashes, we can decode the whole text with Base64:
+>> OT01. My wife would love to take a couple mill and forget about me. Anyway, it's TerraGroup, they'll cover the tracks and that's it! // drum roll… he’s right.  
+>> OT02. Calm the fuck down already! And let off the gas. Don’t let them know we noticed them tailing us. We are just going on a vacation, that’s it. // someone really wanted them to notice
+>
+> The removed characters are `7ea2`.
 
-> The resulting text seems to be
->> OT01. My wife would love to take a couple mill and forget about me. Anyway, it's TerraGroup, they'll cover the tracks and that's it! // drum roll…  
->> ***???*** right.  
->> OT02. Calm the fuck down already! An***d*** ***g***et off the gas. Don’t let them know we noticed ***th***em tailing us. We are just going on a vacation, ***th***hat’s it. // someone really wanted them to notice  
 
 
 ### file intercepted_data_0091.txt
@@ -232,12 +203,21 @@ IGVuZCAtIC0gLSAwX1
 > cb28ca225a8
 > ```
 
-> If we take the weird characters and run them through ROT47 (as hinted by the first and the last lines of the file) we get a name of possibly another account:
+> If we take the weird characters and run them through ROT47 (as hinted by the first and the last lines of the file) we get a name of [another account](./human_resources_unit_001.md):
 > ```
 > 9F>2?0C6D@FC46D0F?:E0__`
 > ->
 > human_resources_unit_001
 > ```
+>
+> We can take all the excess characters from the previous files
+> - `0087` → `5e065d`  
+> - `0088` → `5d04263`  
+> - `0089` → `346d`  
+> - `0090` → `7ea2`  
+> - `0091` → `cb28ca225a8`  
+> 
+> Which forms the string `5e065d5d04263346d7ea2cb28ca225a8`, which is a password for [human_resources_unit_001](./human_resources_unit_001.md).
 
 ### file intercepted_data_0092.txt
 ```
@@ -291,11 +271,11 @@ OT02. Alright, don't freak out, just drive the car but don't run off!
 OT01. We have to lose them! They’re gonna kill us!  
 OT02. No, we don’t. It’s best we let them stop us. We don’t have anything on us, remember? The docs are in a safe place. They won’t find anything. // how naive is that?  
 
-OT01. Suspicion is enough for them! They'll clap us and bury us with those bodies from the experiments!  
-OT02. Yeah and how will they explain that we disappeared on a sick leave? We have families, they'll be looking for us.  
+OT01. Suspicion is enough for them! They’ll clap us and bury us like those bodies from the experiments!
+OT02. Yeah and how will they explain that we disappeared on a sick leave? We have families, they’ll be looking for us.
 
-OT01. My wife would love to take a couple mill and forget about me. Anyway, it's TerraGroup, they'll cover the tracks and that's it! // drum roll… they're right.  
-OT02. Calm the fuck down already! And get off the gas. Don’t let them know we noticed them tailing us. We are just going on a vacation, thhat’s it. // someone really wanted them to notice  
+OT01. My wife would love to take a couple mill and forget about me. Anyway, it's TerraGroup, they'll cover the tracks and that's it! // drum roll… he’s right.  
+OT02. Calm the fuck down already! And let off the gas. Don’t let them know we noticed them tailing us. We are just going on a vacation, that’s it. // someone really wanted them to notice  
 
 OT01. Okay, … Shit, they’re catching up! They’re nearing us!  
 OT02. Fucking drive! They’re going to push us off!  
