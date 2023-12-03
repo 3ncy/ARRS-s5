@@ -23,79 +23,47 @@ No notes found
 
 ### data_transfer_error:9210.txt
 ```
-< - file ->
-
 BNPFJACGA
-
-< - end of file ->
 ```
 
 
 ### data_transfer_error:9351.txt
 ```
-< - file ->
-
 KADAJ
-
-< - end of file ->
 ```
 
 
 ### data_transfer_error:9444.txt
 ```
-< - file ->
-
 LSGQPZTGK
-
-< - end of file ->
 ```
 
 
 ### data_transfer_error:9571.txt
 ```
-< - file ->
-
 BWVXZJBXD
-
-< - end of file ->
 ```
 
 
 ### data_transfer_error:9825.txt
 ```
-< - file ->
-
  DKMOR
-
-< - end of file ->
 ```
-
+> The space at the start is intentional and was present in the original file.
 
 ### data_transfer_error:9900.txt
 ```
-< - file ->
-
 MZLIPR2CQ
-
-< - end of file ->
 ```
 
 
 ### data_transfer_error:9901.txt
 ```
-< - file ->
-
 TZVT
-
-< - end of file ->
 ```
 
 
 ### data_transfer_error:9990.txt
 ```
-< - file ->
-
 JQPZC2
-
-< - end of file ->
 ```
