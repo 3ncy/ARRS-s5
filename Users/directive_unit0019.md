@@ -93,3 +93,16 @@ PFXXKIDIMF3GKIDON4QGSZDFMEQGQ33XEBWXKY3IEB4W65JAONRXEZLXMVSCA3LFEB2GQZJAMZ2WG2ZA
 > 
 > // The kid could have left her teddy bear anywhere. You're gonna have to look around far and wide  
 > ```
+
+---
+<br>
+
+## The full story from this user:
+you have no idea how much you screwed me the fuck over.  
+Are you fucking blind??? How could you lose your daughter's 
+toy?>? It was in her hands all the time!! If you knew what was in it... I hid our fucking golden ticket there, but now it's in this goddamn tarkov! nnobody's gonna go in there to get the flash drive out of that fucking teddy bear!  
+// oh how wrong he is. They will, they sure will  
+i’m leaving. do whatever the fuck you want, you’re not getting a penny from me  
+// sometimes there's too much drama in people's lives, don't you think? 
+
+// The kid could have left her teddy bear anywhere. You're gonna have to look around far and wide   
