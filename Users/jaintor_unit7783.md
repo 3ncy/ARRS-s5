@@ -97,4 +97,4 @@ O4BAOIQHS3L2EBSWK4JVG5WHA5TLEBWHG4BA
 > ```
 > 
 > Taking the numbers between the words we get `100 105 114 101 99 116 105 118 101 95 117 110 105 116 48 48 49 57`  
-> which are the decimal ASCII values of `directive_unit0019` which is the [next account's](./directive_unit0019.md) username, used along one of the passwords from [Supplymanager_unit092](./Supplymanager_unit092.md)
+> which are the decimal ASCII values of `directive_unit0019` which is the [next account's](./directive_unit0019.md) username, used along one of the passwords from [Supplymanager_unit092](./Supplymanager_unit092.md#file-storage_report_590txt).
