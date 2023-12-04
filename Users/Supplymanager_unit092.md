@@ -106,8 +106,11 @@ DR
 
 < - end of file ->
 ```
-> The first line decoded with Base32 results to 
-> `Login(encrypted): ABIACQIGRJ9NIXUZNV3XEXS5M9BT3CWWVMDL2M9GT5N`
+> The first line decoded with Base32 results to  
+> `Login(encrypted): ABIACQIGRJ9NIXUZNV3XEXS5M9BT3CWWVMDL2M9GT5N`  
+> Assuming we did the first step mentioned in the file `storage_report_571`, we're supposed to reverse the encrypted string, getting
+> `N5TG9M2LDMVWWC3TB9M5SXEX3VNZUXIN9JRGIQCAIBA`  
+> which can be decoded with Base32 to `officemanager_unit512`. Together with the 2nd password from the file `storage_report_590.txt` we get access to the [next account](./officemanager_unit512.md).
 
 
 ### file storage_report_590.txt
