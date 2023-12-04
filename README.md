@@ -30,8 +30,10 @@ quest solution"]);
 quest reward text"]) --> irl{{IRL coordinates with notes}};
     irl --> Supplymanager_unit092;
     Supplymanager_unit092 ----> officemanager_unit512;
-    officemanager_unit512 ----> jaintor_unit7783;
-    jaintor_unit7783 ----> directive_unit0019;
+    Supplymanager_unit092 --password--> jaintor_unit7783;
+    Supplymanager_unit092 --password--> directive_unit0019;
+    officemanager_unit512 --name--> jaintor_unit7783;
+    jaintor_unit7783 --name--> directive_unit0019;
     directive_unit0019 --> quest4(["Down the Rabbit Hole - Part 4:
 quest start"]);
 ```
