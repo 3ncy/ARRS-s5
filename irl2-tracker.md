@@ -20,7 +20,7 @@ Sent email -> got new coordinates -> put documents in automated deposit box -> a
 
 ### Russia part 2
 Got new coords in Moscow on the phone that we found in the first part
-Got to the coords and found a small package stashed in a hole (1x1x5cm) (a USB flash drive)
+Got to the coords and found a small package stashed in a hole (1x1x5cm) (a USB flash drive) -> USB contained a file with login and password for ARRS [database_admin_6289](./Users/database_admin_6289.md)
 
 ## EU Branch
 Sent email -> got new coords -> found a phone, got new location -> took picture, was told picture is ok, waiting for further instructions
