@@ -25,4 +25,4 @@ Sent email -> got new coords
 Sent email -> got new coords
 
 ## Japan Branch
-Sent email -> got new coords
+Sent email -> got new coords -> found a phone, got new coordinates
