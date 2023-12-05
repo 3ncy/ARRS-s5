@@ -9,7 +9,21 @@ graph TD;
     irl4 --> irl5{{Told task failed, go to new location}};
     irl5 --> irl6{{Go to first location, find hidden package}};
     irl6 --> irl7{{Go to new location and hide the package}};
-    irl7 --> irl8{{Hid the package, told they will need some help in several hours in Moscow}}
+    irl7 --> irl8{{Hid the package, told they will need some help in several hours in Moscow}};
+    irl8 --> irl9{{Moscow coords found USB Flash Drive with ARRS login info}}
+
+    email(["Email Mr. Kermen"]) --> irle2{{IRL coordinates where to stash documents}};
+    irle2 --> irle3{{Coordinates of a stashed phone}};
+    irle3 --> irle4{{Coordinates of a package that needs to bestashed}}
+
+    email(["Email Mr. Kermen"]) --> irlu2{{IRL coordinates where to stash documents}};
+    irlu2 --> irlu3{{Coordinates of a stashed phone}};
+    irlu3 --> irlu4{{Coordinates of a package that needs to bestashed}};
+    irlu4 --> irlu5{{Stasked package, got coordinates for USB flash drive}}
+
+    email(["Email Mr. Kermen"]) --> irlj2{{IRL coordinates where to stash documents}};
+    irlj2 --> irlj3{{Coordinates to be on webcam with USEC written somewhere}};
+    irlj3 --> irlj4{{Coordinates to a USB flash drive}}
 ```
 
 ## Kermen email
