@@ -36,6 +36,9 @@ quest reward text"]) --> irl{{IRL coordinates with notes}};
     jaintor_unit7783 --name--> directive_unit0019;
     directive_unit0019 --> quest4(["Down the Rabbit Hole - Part 4:
 quest start"]);
+
+    email(["Email Mr. Kermen"]) --> irl2{{IRL coordinates where to stash documents}};
+    irl2 --> irl3{{IRL coordinates of a stashed phone?}}
 ```
 
 ## Possible users without passwords
