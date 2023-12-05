@@ -17,6 +17,8 @@ graph TD;
     irle2 --> irle3{{Coordinates of a stashed phone}};
     irle3 --> irle4{{Coordinates of a package that needs to bestashed}}
     irle4 --> irle5{{Package found}};
+    irle5 --> irle6{{Flash drive found}};
+    irle6 --username password--> database_admin_6289;
 
     email(["Email Mr. Kermen"]) --USA--> irlu2{{IRL coordinates where to stash documents}};
     irlu2 --> irlu3{{Coordinates of a stashed phone}};
@@ -65,7 +67,8 @@ Got new coords in Moscow on the phone that we found in the first part
 Sent email  
 -> got new coords  
 -> found a phone, got new location  
--> found a package and driving to drop off point
+-> found a package and driving to drop off point  
+-> found supplies and a USB drive, got the same login as the other branches
 
 ## NA Branch
 Sent email  
