@@ -23,7 +23,7 @@ Got new coords in Moscow on the phone that we found in the first part
 Got to the coords and found a small package stashed in a hole (1x1x5cm) (a USB flash drive)
 
 ## EU Branch
-Sent email -> got new coords -> found a phone, got new location ->
+Sent email -> got new coords -> found a phone, got new location -> took picture, was told picture is ok, waiting for further instructions
 
 ## NA Branch
 Sent email -> got new coords ->
