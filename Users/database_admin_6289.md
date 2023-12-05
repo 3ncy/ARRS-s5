@@ -65,6 +65,10 @@ The following items were urgently relocated from warehouse 6:
 - containers, label C, 27 pcs.
 ```
 
+> missing B and E<br>
+> B is mentioned as "barrel" in Re:Warehouse_evacuation_report<br>
+> E could be a "container", so it's changing one by one
+
 
 ### Re:Warehouse_evacuation_report
 ```
