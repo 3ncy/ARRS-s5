@@ -22,6 +22,7 @@ Sent email -> got new coordinates -> put documents in automated deposit box -> a
 Sent email -> got new coords
 
 ## NA Branch
+Sent email -> got new coords
 
 ## Japan Branch
 Sent email -> got new coords
