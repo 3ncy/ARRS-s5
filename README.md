@@ -38,7 +38,8 @@ quest reward text"]) --> irl{{IRL coordinates with notes}};
     directive_unit0019 --> quest4(["Down the Rabbit Hole - Part 4:
 quest start"]);
 
-    irl2(["Russian IRL"]) --username password--> database_admin_6289
+    irlru(["Russian IRL"]) --username password--> database_admin_6289
+    irlja(["Japan IRL"]) --username password--> database_admin_6289
 ```
 
 ## Possible users without passwords
