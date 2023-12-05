@@ -4,7 +4,9 @@
 ```mermaid
 graph TD;
     email(["Email Mr. Kermen"]) --> irl2{{IRL coordinates where to stash documents}};
-    irl2 --> irl3{{IRL coordinates of a stashed phone?}}
+    irl2 --> irl3{{IRL coordinates of a stashed phone}};
+    irl3 --> irl4{{Told to go to new location}};
+    irl4 --> irl5{{Told task failed, go to new location}}
 ```
 
 ## Kermen email
