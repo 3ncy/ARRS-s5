@@ -29,4 +29,4 @@ Sent email -> got new coords -> found a phone, got new location -> took picture,
 Sent email -> got new coords ->
 
 ## Japan Branch
-Sent email -> got new coords -> ??? -> found USB flash drive
+Sent email -> got new coords, show yourself on live webcam with something USEC related -> found USB flash drive
