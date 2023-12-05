@@ -15,7 +15,7 @@ graph TD;
 
     email(["Email Mr. Kermen"]) --Germany--> irle2{{IRL coordinates where to stash documents}};
     irle2 --> irle3{{Coordinates of a stashed phone}};
-    irle3 --> irle4{{Coordinates of a package that needs to bestashed}};
+    irle3 --> irle4{{Coordinates of a package that needs to bestashed}}
     irle4 --> irle5{{Package found}};
 
     email(["Email Mr. Kermen"]) --USA--> irlu2{{IRL coordinates where to stash documents}};
@@ -31,20 +31,52 @@ graph TD;
 ```
 
 ## Kermen email
-Thank you for your interest. The work is project-based, involving four locations (co compensation for tickets or lodging). I will briefly outline your obligations. You will be required to visit four locations. USA: 39°07'04.4''N 84°29'12.3''W, Japon:35.686950, 139.707061, Europe:51.548788, 7.302324, Russia: 59.932583, 30.327629 At each location, you must leave a package of documents on the development of the SJ1 TGLabs stimulant (You'll be able to pick a place to stash the documents within the selected coordinates). Documents quality requirements: an untrained employee may confuse the documents with real data. Use the template attached to this email. Mandatory condition: take a photo or video of the documents left in the correct place (the surroundings must be in the frame). Send the proof of completed work together with the documents in digital form to this emial. Execute as quickly as possible. Please note that one set of documents in each location will be sufficient. Kermen's representative
+Thank you for your interest. The work is project-based, involving four locations (no compensation for tickets or lodging). I will briefly outline your obligations.
+
+You will be required to visit four locations:  
+USA: 39°07'04.4"N 84°29'12.3"W  
+Japon: 35.686950, 139.707061  
+Europe: 51.548788, 7.302324  
+Russia: 59.932583, 30.327629
+
+At each location, you must leave a package of documents on the development of the SJ1 TGLabs stimulant (You'll be able to pick a place to stash the documents within the selected coordinates). Documents quality requirements: an untrained employee may confuse the documents with real data. Use the template attached to this email. Mandatory condition: take a photo or video of the documents left in the correct place (the surroundings must be in the frame). Send the proof of completed work together with the documents in digital form to this emial. Execute as quickly as possible. Please note that one set of documents in each location will be sufficient. 
+
+Kermen's representative
 
 ## Russian branch
-Sent email -> got new coordinates -> put documents in automated deposit box -> another opened and got a phone with telegram -> Agent "K" (Kermen?) -> Told to go to new location to meet someone -> Got message, task failed, go to new location -> Arrived at the new location, took a photo, waited and got coordinates of the place where they stashed the documents, instructions to be given once there -> found a package -> told to go to new location and hide the package -> told they will need help in Moscow in several hours
+Sent email  
+-> got new coordinates  
+-> put documents in automated deposit box  
+-> another opened and got a phone with telegram  
+-> Agent "K" (Kermen?)  
+-> Told to go to new location to meet someone  
+-> Got message, task failed, go to new location  
+-> Arrived at the new location, took a photo, waited and got coordinates of the place where they stashed the documents, instructions to be given once there  
+-> found a package  
+-> told to go to new location and hide the package  
+-> told they will need help in Moscow in several hours  
 
 ### Russia part 2
-Got new coords in Moscow on the phone that we found in the first part
-Got to the coords and found a small package stashed in a hole (1x1x5cm) (a USB flash drive) -> USB contained a file with login and password for ARRS [database_admin_6289](./Users/database_admin_6289.md)
+Got new coords in Moscow on the phone that we found in the first part  
+-> Got to the coords and found a small package stashed in a hole (1x1x5cm) (a USB flash drive)  
+-> USB contained a file with login and password for the ARRS account [database_admin_6289](./Users/database_admin_6289.md)
 
 ## EU Branch
-Sent email -> got new coords -> found a phone, got new location -> found a package and driving to drop off point
+Sent email  
+-> got new coords  
+-> found a phone, got new location  
+-> found a package and driving to drop off point
 
 ## NA Branch
-Sent email -> got new coords, found phone -> enroute to new location to pick something up -> found a package, going to new location to stash it -> box stashed and got coordinates for USB -> USB in Oklahoma
+Sent email  
+-> got new coords, found phone  
+-> enroute to new location to pick something up  
+-> found a package, going to new location to stash it  
+-> box stashed and got coordinates for USB  
+-> USB in Oklahoma  
 
 ## Japan Branch
-Sent email -> got new coords, show yourself on live webcam with something USEC related -> found USB flash drive -> USB contained a file with login and password for ARRS [database_admin_6289](./Users/database_admin_6289.md)
+Sent email  
+-> got new coords, show yourself on live webcam with something USEC related  
+-> found USB flash drive  
+-> USB contained a file with login and password for the ARRS account [database_admin_6289](./Users/database_admin_6289.md)
