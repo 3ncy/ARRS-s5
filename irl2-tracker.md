@@ -22,7 +22,7 @@ Sent email -> got new coordinates -> put documents in automated deposit box -> a
 Got new coords in Moscow on the phone that we found in the first part (ETA 16:35 UTC)
 
 ## EU Branch
-Sent email -> got new coords
+Sent email -> got new coords -> found a phone
 
 ## NA Branch
 Sent email -> got new coords
