@@ -10,7 +10,8 @@ graph TD;
     irl5 --> irl6{{Go to first location, find hidden package}};
     irl6 --> irl7{{Go to new location and hide the package}};
     irl7 --> irl8{{Hid the package, told they will need some help in several hours in Moscow}};
-    irl8 --> irl9{{Moscow coords found USB Flash Drive with ARRS login info}}
+    irl8 --> irl9{{Moscow coords found USB Flash Drive}};
+    irl9 --username password--> database_admin_6289
 
     email(["Email Mr. Kermen"]) --Germany--> irle2{{IRL coordinates where to stash documents}};
     irle2 --> irle3{{Coordinates of a stashed phone}};
