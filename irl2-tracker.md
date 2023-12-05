@@ -25,7 +25,7 @@ Got new coords in Moscow on the phone that we found in the first part (ETA 16:35
 Sent email -> got new coords -> found a phone
 
 ## NA Branch
-Sent email -> got new coords
+Sent email -> got new coords ->
 
 ## Japan Branch
-Sent email -> got new coords -> found a phone, got new coordinates - 
+Sent email -> got new coords ->
