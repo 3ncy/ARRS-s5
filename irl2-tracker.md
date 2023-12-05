@@ -18,6 +18,9 @@ Thank you for your interest. The work is project-based, involving four locations
 ## Russian branch
 Sent email -> got new coordinates -> put documents in automated deposit box -> another opened and got a phone with telegram -> Agent "K" (Kermen?) -> Told to go to new location to meet someone -> Got message, task failed, go to new location -> Arrived at the new location, took a photo, waited and got coordinates of the place where they stashed the documents, instructions to be given once there -> found a package -> told to go to new location and hide the package -> told they will need help in Moscow in several hours
 
+# Russia part 2
+Got location in Moscow
+
 ## EU Branch
 Sent email -> got new coords
 
