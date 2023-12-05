@@ -15,7 +15,8 @@ graph TD;
 
     email(["Email Mr. Kermen"]) --Germany--> irle2{{IRL coordinates where to stash documents}};
     irle2 --> irle3{{Coordinates of a stashed phone}};
-    irle3 --> irle4{{Coordinates of a package that needs to bestashed}}
+    irle3 --> irle4{{Coordinates of a package that needs to bestashed}};
+    irle4 --> irle5{{Package found}};
 
     email(["Email Mr. Kermen"]) --USA--> irlu2{{IRL coordinates where to stash documents}};
     irlu2 --> irlu3{{Coordinates of a stashed phone}};
@@ -40,7 +41,7 @@ Got new coords in Moscow on the phone that we found in the first part
 Got to the coords and found a small package stashed in a hole (1x1x5cm) (a USB flash drive) -> USB contained a file with login and password for ARRS [database_admin_6289](./Users/database_admin_6289.md)
 
 ## EU Branch
-Sent email -> got new coords -> found a phone, got new location -> took picture, was told picture is ok, waiting for further instructions
+Sent email -> got new coords -> found a phone, got new location -> found a package and driving to drop off point
 
 ## NA Branch
 Sent email -> got new coords, found phone -> enroute to new location to pick something up -> found a package, going to new location to stash it -> box stashed and got coordinates for USB -> USB in Oklahoma
