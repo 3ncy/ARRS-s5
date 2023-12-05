@@ -28,4 +28,4 @@ Sent email -> got new coords
 Sent email -> got new coords
 
 ## Japan Branch
-Sent email -> got new coords -> found a phone, got new coordinates
+Sent email -> got new coords -> found a phone, got new coordinates - !Coordinates too far, new person needed?!
