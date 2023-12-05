@@ -38,6 +38,7 @@ Please send the cleaning service as soon as possible or we will have to reassign
 Respectfully,
 ■■■■■■■■■
 ```
+> ■■■■■■■■■ -> ■ ■ ■ ■ ■ ■ ■ ■ ■
 
 
 ### Email_from_TerraGroup_Labs_8324
@@ -50,6 +51,8 @@ Respectfully,
 ■■■■■■■■■
 TerraLabs
 ```
+> ■■■■■■! -> ■ ■ ■ ■ ■ ■!<br>
+> ■■■■■■■■■ -> ■ ■ ■ ■ ■ ■ ■ ■ ■
 
 
 ### Warehouse_6_evacuation_report
@@ -71,3 +74,4 @@ Where the fuck are the label B barrels then? Where did they go? Did you leave th
 Sincerely,
 ■■■■■■■
 ```
+> ■■■■■■■ -> ■ ■ ■ ■ ■ ■ ■
