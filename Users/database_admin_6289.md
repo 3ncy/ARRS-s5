@@ -1,5 +1,5 @@
 # database_admin_6289:Oi8vcmIuZ3kvMWVtNmpi
-> base64 password -> ://rb.gy/1em6jb -> rickroll
+> base64 decode Oi8vcmIuZ3kvMWVtNmpi -> ://rb.gy/1em6jb -> rickroll on youtube
 ## user
 < - info -><br>
 <br>
