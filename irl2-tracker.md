@@ -6,14 +6,15 @@ graph TD;
     email(["Email Mr. Kermen"]) --> irl2{{IRL coordinates where to stash documents}};
     irl2 --> irl3{{IRL coordinates of a stashed phone}};
     irl3 --> irl4{{Told to go to new location}};
-    irl4 --> irl5{{Told task failed, go to new location}}
+    irl4 --> irl5{{Told task failed, go to new location}};
+    irl5 --> irl6{{Got new location}}
 ```
 
 ## Kermen email
 Thank you for your interest. The work is project-based, involving four locations (co compensation for tickets or lodging). I will briefly outline your obligations. You will be required to visit four locations. USA: 39°07'04.4''N 84°29'12.3''W, Japon:35.686950, 139.707061, Europe:51.548788, 7.302324, Russia: 59.932583, 30.327629 At each location, you must leave a package of documents on the development of the SJ1 TGLabs stimulant (You'll be able to pick a place to stash the documents within the selected coordinates). Documents quality requirements: an untrained employee may confuse the documents with real data. Use the template attached to this email. Mandatory condition: take a photo or video of the documents left in the correct place (the surroundings must be in the frame). Send the proof of completed work together with the documents in digital form to this emial. Execute as quickly as possible. Please note that one set of documents in each location will be sufficient. Kermen's representative
 
 ## Russian branch
-Sent email -> got new coordinates -> put documents in automated deposit box -> another openend and got a phone with telegram -> Agent "K" (Kermen?) -> Told to go to new location to meet someone -> Got message, task failed, go to new location
+Sent email -> got new coordinates -> put documents in automated deposit box -> another openend and got a phone with telegram -> Agent "K" (Kermen?) -> Told to go to new location to meet someone -> Got message, task failed, go to new location -> Arrived at new location, took photo, waited and got new location, instructions to be given once there
 
 ## EU Branch
 
