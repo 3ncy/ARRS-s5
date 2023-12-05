@@ -20,11 +20,13 @@ graph TD;
     email(["Email Mr. Kermen"]) --USA--> irlu2{{IRL coordinates where to stash documents}};
     irlu2 --> irlu3{{Coordinates of a stashed phone}};
     irlu3 --> irlu4{{Coordinates of a package that needs to bestashed}};
-    irlu4 --> irlu5{{Stasked package, got coordinates for USB flash drive}}
+    irlu4 --> irlu5{{Stasked package, got coordinates for USB flash drive}};
+    irlu5 --> irlu6{{Drive is in Oklahoma}};
 
     email(["Email Mr. Kermen"]) --Japan--> irlj2{{IRL coordinates where to stash documents}};
     irlj2 --> irlj3{{Coordinates to be on webcam with USEC written somewhere}};
-    irlj3 --> irlj4{{Coordinates to a USB flash drive}}
+    irlj3 --> irlj4{{Coordinates to a USB flash drive}};
+    irlj4 --username password--> database_admin_6289
 ```
 
 ## Kermen email
@@ -41,7 +43,7 @@ Got to the coords and found a small package stashed in a hole (1x1x5cm) (a USB f
 Sent email -> got new coords -> found a phone, got new location -> took picture, was told picture is ok, waiting for further instructions
 
 ## NA Branch
-Sent email -> got new coords, found phone -> enroute to new location to pick something up -> found a package, going to new location to stash it -> box stashed and got coordinates for USB
+Sent email -> got new coords, found phone -> enroute to new location to pick something up -> found a package, going to new location to stash it -> box stashed and got coordinates for USB -> USB in Oklahoma
 
 ## Japan Branch
-Sent email -> got new coords, show yourself on live webcam with something USEC related -> found USB flash drive
+Sent email -> got new coords, show yourself on live webcam with something USEC related -> found USB flash drive -> USB contained a file with login and password for ARRS [database_admin_6289](./Users/database_admin_6289.md)
