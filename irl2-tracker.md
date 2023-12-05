@@ -26,7 +26,7 @@ Got to the coords and found a small package stashed in a hole (1x1x5cm) (a USB f
 Sent email -> got new coords -> found a phone, got new location -> took picture, was told picture is ok, waiting for further instructions
 
 ## NA Branch
-Sent email -> got new coords, found phone -> enroute to new location to pick something up
+Sent email -> got new coords, found phone -> enroute to new location to pick something up -> found a package, going to new location to stash it
 
 ## Japan Branch
 Sent email -> got new coords, show yourself on live webcam with something USEC related -> found USB flash drive
