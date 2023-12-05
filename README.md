@@ -28,8 +28,8 @@ quest description"]);
 quest solution"]);
 
     quest3(["Down the Rabbit Hole - Part 3: 
-quest reward text"]) --> irl{{IRL coordinates with notes}};
-    irl --> Supplymanager_unit092;
+quest reward text"]) --> irl1{{IRL coordinates with notes}};
+    irl1 --> Supplymanager_unit092;
     Supplymanager_unit092 ----> officemanager_unit512;
     Supplymanager_unit092 --password--> jaintor_unit7783;
     Supplymanager_unit092 --password--> directive_unit0019;
@@ -38,8 +38,8 @@ quest reward text"]) --> irl{{IRL coordinates with notes}};
     directive_unit0019 --> quest4(["Down the Rabbit Hole - Part 4:
 quest start"]);
 
-    irlru(["Russian IRL"]) --username password--> database_admin_6289
-    irlja(["Japan IRL"]) --username password--> database_admin_6289
+    irl-email{{"Email from/to Mr.Kermen"}} --> irl-2{{"IRL locations with multistep process"}}
+    irl-2 --> database_admin_6289;
 ```
 
 ## Possible users without passwords
