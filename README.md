@@ -42,8 +42,7 @@ quest start"]);
     irl-2 --> database_admin_6289;
 ```
 
-## Possible users without passwords
--
-  
-## Possible passwords without known username
--
+## Alternative document
+A similar English document covering the ARG can be found here: https://docs.google.com/document/d/1fI8zFZEghZDGJQvsoZ2c3LwtuNw40edhpv4BgazCbTU.
+
+The Russian document is lost at this point. If you have a link to it, please open an issue, so that it can be added.
